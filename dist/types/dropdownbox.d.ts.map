@@ -1,0 +1,1 @@
+{"version":3,"file":"dropdownbox.d.ts","sourceRoot":"","sources":["../../src/ts/dropdownbox.ts"],"names":[],"mappings":";AAAA,OAAO,wBAAwB,CAAA;AAC/B,OAAO,EAAE,YAAY,EAAE,MAAM,QAAQ,CAAA;AACrC,cAAM,WAAY,SAAQ,YAAY;IACpC,MAAM,EAAE,gBAAgB,CAAA;gBACX,OAAO,EAAE,GAAG;CAsD1B;AACD,eAAe,WAAW,CAAA"}

@@ -1,0 +1,10 @@
+{
+    "defaultSeverity": "warning",
+    "extends": [
+        "tslint-config-standard"
+    ],
+    "rules": {
+      "no-eval":false,
+      "no-empty": false
+    }
+}
